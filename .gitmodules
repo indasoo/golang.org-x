@@ -1,0 +1,6 @@
+[submodule "x/text"]
+	path = x/text
+	url = https://github.com/golang/text.git
+[submodule "x/net"]
+	path = x/net
+	url = https://github.com/golang/net.git
