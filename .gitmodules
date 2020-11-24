@@ -4,3 +4,12 @@
 [submodule "x/net"]
 	path = x/net
 	url = https://github.com/golang/net.git
+[submodule "x/tools"]
+	path = x/tools
+	url = https://github.com/golang/tools.git
+[submodule "x/crypto"]
+	path = x/crypto
+	url = https://github.com/golang/crypto.git
+[submodule "x/sys"]
+	path = x/sys
+	url = https://github.com/golang/sys.git
